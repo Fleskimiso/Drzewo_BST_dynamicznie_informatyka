@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580240465 source:c:\users\dawid\desktop\code\drzewo_bst_dynamicznie_informatyka\main.cpp
+	<iostream>
+	<queue>
+
